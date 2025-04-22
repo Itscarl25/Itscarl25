@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Carl/Itscarl25👋
+## CS Student from Philippines
+## 🌱 I’m currently learning Python
+## 📫 How to reach me: carljamespoopalaretnam@gmail.com
+## 🔭 I’m currently working on Machine Learning/Database Development
+## 👍💻 Mostly code offline
 
 <!--
 **Itscarl25/Itscarl25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
